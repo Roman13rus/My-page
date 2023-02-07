@@ -1,6 +1,6 @@
 # **Рогачёв Роман Николаевич**
 
-![My photo](\C:\Users\nvrna\Desktop)
+![My photo](/IMG_5317.JPG)
 
 
 19.03.1989
